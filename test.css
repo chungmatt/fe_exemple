@@ -1,0 +1,18 @@
+div {
+    font-size: 14px;
+    float: left;
+    padding-left: 14px;
+    padding-right: 14px;
+}
+
+.first {
+    color: #829c00;
+    border-bottom: 3px solid #829c00;
+    padding-bottom: 14px;}
+
+.box{
+    /* fz16 */
+    font-size: 16px;
+
+}
+
